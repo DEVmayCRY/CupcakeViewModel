@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\androidBasicsCupCakeViewModel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_pickup.xml",
+        "source": "D:\\AndroidStudio\\androidBasicsCupCakeViewModel\\app\\src\\main\\res\\layout\\fragment_pickup.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\androidBasicsCupCakeViewModel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_start.xml",
+        "source": "D:\\AndroidStudio\\androidBasicsCupCakeViewModel\\app\\src\\main\\res\\layout\\fragment_start.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\androidBasicsCupCakeViewModel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_summary.xml",
+        "source": "D:\\AndroidStudio\\androidBasicsCupCakeViewModel\\app\\src\\main\\res\\layout\\fragment_summary.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\androidBasicsCupCakeViewModel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_flavor.xml",
+        "source": "D:\\AndroidStudio\\androidBasicsCupCakeViewModel\\app\\src\\main\\res\\layout\\fragment_flavor.xml"
+    }
+]
